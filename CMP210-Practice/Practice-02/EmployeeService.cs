@@ -27,7 +27,7 @@ namespace Practice_02
             }
 		} else if (employeeType == EmployeeType.SeniorManager)
             {
-                factor = 3;
+                factor = 4;
             }
             // TODO: if employee is Expert, set factor = 3
 
